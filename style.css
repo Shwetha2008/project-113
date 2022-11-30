@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+  color: white;
+  background: radial-gradient(rgb(161, 202, 237), rgb(75, 167, 225), rgb(2, 106, 141), rgb(2, 74, 98));
+}
+.heading
+{
+  background: linear-gradient( orange 0%, rgba(238, 204, 140, 0.933) 100%);
+  font-size : 20px;
+  letter-spacing: 6px;
+  border-radius: 10px;
+  padding: 10px;
+  height: 70px;
+  width: 45%;
+  color: midnightblue;
+}
